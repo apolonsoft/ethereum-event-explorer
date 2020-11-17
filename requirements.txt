@@ -1,0 +1,4 @@
+web3
+loguru
+dynaconf
+nest_asyncio
